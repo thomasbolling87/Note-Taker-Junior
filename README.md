@@ -6,6 +6,7 @@ The purpose of this application is to allow users to add notes, and delete them 
 
 ## GIF
 
+![notes](https://user-images.githubusercontent.com/78775177/118609615-88938c00-b780-11eb-84d3-dcfc28cbbecd.gif)
 
 ## Table of Contents
 
