@@ -6,7 +6,7 @@ The purpose of this application is to allow users to add notes, and delete them 
 
 ## GIF
 
-[Gif] (Note Taker HW.gif)
+![image](https://user-images.githubusercontent.com/78775177/118607359-191c9d00-b77e-11eb-9c1a-fba0d5d9f653.png)
 
 ## Table of Contents
 
