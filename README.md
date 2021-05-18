@@ -6,7 +6,7 @@ The purpose of this application is to allow users to add notes, and delete them 
 
 ## GIF
 
-! [Gif] (Note Taker HW.gif)
+[Gif] (Note Taker HW.gif)
 
 ## Table of Contents
 
